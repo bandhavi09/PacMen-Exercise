@@ -1,10 +1,33 @@
 # PacMen-Exercise
 ## PacMen-Exercise Project
 
-In this repository we have: images, index.html, pacmen.js.
-In index.html we have to create div id = 'game'.
-Inside div we have to create two buttons which are: Add PacMen and Start Game.
-In pacmen.js we have declare position, direction and insert images.
-Create empty array which holds all pacmen.
-Use setToRandom, makepac, update, checkcollisions, makeOne functions.
-Get HTML elements by using getElementById.
+#Description
+
+Creating a pacmen on demand clicking the button and move these pacmen across the page.
+
+#Installation
+
+use this command to install git clone:
+https://github.com/bandhavianugu/PacMen-Exercise
+
+#Working
+
+##Step 1:
+
+When you click on 'Add PacMen' button, a new pacmen should appear at a random position on the screen.
+
+##Step 2:
+
+When you click on 'Start Game' button, the pacmen that are created should start moving at random velocity and directions on the screen.
+
+##Step 3:
+
+When a given pacmen hits the edge of the screen, it should change the position and direction to stay within the space of web page.
+
+#Road map
+
+I will learn advance concept of Bootstrap, React and Node.
+
+#License information
+
+MIT License
